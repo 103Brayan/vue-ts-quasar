@@ -1,5 +1,7 @@
 # vue-q-ts
 
+## How to create a Vuejs project with Quasar and Typecript
+
 ## Project setup
 ```
 npm install
